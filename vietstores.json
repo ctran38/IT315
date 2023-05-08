@@ -1,51 +1,12 @@
 {
-	"VietStore": [{
-			"storeName": "Eden Center",
-			"storeDescription": "A Vietnamese-American strip mall located near the crossroads of Seven Corners in the City of Falls Church, Virginia. Eden Center is the largest Vietnamese commerical center on the east Coast, and the largest Asian-themed mall on the east coast of North America.",
-			"storeID": 1,
-			"storeImage": "https://lh3.googleusercontent.com/p/AF1QipNZNTSFOtByNhVoSNyL_a-CzyFcl-gKaz60VZ6W=s680-w680-h510",
-			"storeAddress": "6751-6799 Wilson Blvd, Falls Church, VA 22044",
-			"storeWebsiteAddress": "https://edencenter.com/"
-		},
-		{
-			"storeName": "Vietnam Supermarket",
-			"storeDescription": "Small Vietnamese supermarket with Vietnamese specialities located in Falls Church, VA near Eden Center.",
-			"storeID": 2,
-			"storeImage": "https://s3-media0.fl.yelpcdn.com/bphoto/IqqpgjH82Lbh9pNkBQFyxg/348s.jpg",
-			"storeAddress": "6609 Wilson Blvd, Falls Church, VA 22044",
-			"storeWebsiteAddress": "https://www.yelp.com/biz/vietnam-supermarket-falls-church"
-		},
-		{
-			"storeName": "Bien Hoa Market",
-			"storeDescription": "Oriental small supermarket.",
-			"storeID": 3,
-			"storeImage": "https://s3-media0.fl.yelpcdn.com/bphoto/e5mSZq7-m6FtRtK3oCULpw/l.jpg",
-			"storeAddress": "7248 Arlington Blvd, Falls Church, VA 22842",
-			"storeWebsiteAddress": "https://www.yelp.com/biz/bien-hoa-falls-church"
-		},
-		{
-			"storeName": "Phuoc Hung Market",
-			"storeDescription": "Asian grocery store located in Springfield",
-			"storeID": 4,
-			"storeImage": "https://s3-media0.fl.yelpcdn.com/bphoto/NvbSExZsYswnIDAtdnkTCA/l.jpg",
-			"storeAddress": "6975 Hechinger Dr, Springfield, VA 22151",
-			"storeWebsiteAddress": "https://www.yelp.com/biz/phuoc-hoa-market-springfield"
-		},
-		{
-			"storeName": "Good Fortune Supermarket",
-			"storeDescription": "Large Asian supermarket in Falls Church, VA",
-			"storeID": 5,
-			"storeImage": "https://lh3.googleusercontent.com/p/AF1QipPjKeUEtW3vRntimx-WvDRjhCYysYaZSrYYrPNj=s680-w680-h510",
-			"storeAddress": "6751 Wilson Blvd, Falls Church, VA 22844",
-			"storeWebsiteAddress": "https://edencenter.com/stores/good-fortune-supermarket/"
-		},
-		{
-			"storeName": "More Options",
-			"storeDescription": "Need more options? Click Open Search below to find vietnamese stores near your location. Makre sure to have location access turn on in your browser.",
-			"storeID": 6,
-			"storeImage": "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701911091.jpg",
-			"storeAddress": "Find More? Tìm Thêm Cửa Hàng?",
-			"storeWebsiteAddress": "http://vietnamesefoodlovers.org/understanding-vietnams-history-food/"
-		}
-	],
-	"Status": "OK"
+  "VietStore":
+  [
+    {"storeName":"Eden Center","storeDescription":"A Vietnamese-American strip mall located near the crossroads of Seven Corners in the City of Falls Church, Virginia. Eden Center is the largest Vietnamese commerical center on the east Coast, and the largest Asian-themed mall on the east coast of North America.","storeID":1,"storeImage":"https://lh3.googleusercontent.com/p/AF1QipNZNTSFOtByNhVoSNyL_a-CzyFcl-gKaz60VZ6W=s680-w680-h510", "storeAddress":"6751-6799 Wilson Blvd, Falls Church, VA 22044", "storeWebsiteAddress":"https://edencenter.com/"},
+    {"storeName":"Vietnam Supermarket","storeDescription":"Small Vietnamese supermarket with Vietnamese specialities located in Falls Church, VA near Eden Center.","storeID":2,"storeImage":"https://s3-media0.fl.yelpcdn.com/bphoto/IqqpgjH82Lbh9pNkBQFyxg/348s.jpg", "storeAddress":"6609 Wilson Blvd, Falls Church, VA 22044", "storeWebsiteAddress":"https://www.yelp.com/biz/vietnam-supermarket-falls-church"},
+    {"storeName":"Bien Hoa Market","storeDescription":"Oriental small supermarket.","storeID":3,"storeImage":"https://s3-media0.fl.yelpcdn.com/bphoto/e5mSZq7-m6FtRtK3oCULpw/l.jpg", "storeAddress":"7248 Arlington Blvd, Falls Church, VA 22842", "storeWebsiteAddress":"https://www.yelp.com/biz/bien-hoa-falls-church"},
+    {"storeName":"Phuoc Hung Market","storeDescription":"Asian grocery store located in Springfield","storeID":4,"storeImage":"https://s3-media0.fl.yelpcdn.com/bphoto/NvbSExZsYswnIDAtdnkTCA/l.jpg", "storeAddress":"6975 Hechinger Dr, Springfield, VA 22151", "storeWebsiteAddress":"https://www.yelp.com/biz/phuoc-hoa-market-springfield"},
+    {"storeName":"Good Fortune Supermarket","storeDescription":"Large Asian supermarket in Falls Church, VA","storeID":5,"storeImage":"https://lh3.googleusercontent.com/p/AF1QipPjKeUEtW3vRntimx-WvDRjhCYysYaZSrYYrPNj=s680-w680-h510", "storeAddress":"6751 Wilson Blvd, Falls Church, VA 22844", "storeWebsiteAddress":"https://edencenter.com/stores/good-fortune-supermarket/"},
+  {"storeName":"More Options","storeDescription":"Need more options? Click Open Search below to find vietnamese stores near your location. Makre sure to have location access turn on in your browser.","storeID":6,"storeImage":"https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701911091.jpg", "storeAddress":"Find More? Tìm Thêm Cửa Hàng?", "storeWebsiteAddress":"http://vietnamesefoodlovers.org/understanding-vietnams-history-food/"}
+  ],
+  "Status":"OK"
+}
