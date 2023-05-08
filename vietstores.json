@@ -6,7 +6,7 @@
     {"storeName":"Bien Hoa Market","storeDescription":"Oriental small supermarket.","storeID":3,"storeImage":"https://raw.githubusercontent.com/ctran38/IT315/main/DSC_0309.jpeg", "storeAddress":"7248 Arlington Blvd, Falls Church, VA 22842"},
     {"storeName":"Phuoc Hung Market","storeDescription":"Asian grocery store located in Springfield","storeID":4,"storeImage":"https://raw.githubusercontent.com/ctran38/IT315/main/2019-01-13.jpeg", "storeAddress":"6975 Hechinger Dr, Springfield, VA 22151"},
     {"storeName":"Good Fortune Supermarket","storeDescription":"Large Asian supermarket in Falls Church, VA","storeID":5,"storeImage":"https://raw.githubusercontent.com/ctran38/IT315/main/20161220_151744.jpeg", "storeAddress":"6751 Wilson Blvd, Falls Church, VA 22844"},
-  {"storeName":"More Options","storeDescription":"Need more options? Click Open Search below to find vietnamese stores near your location. Makre sure to have location access turn on in your browser.","storeID":6,"storeImage":"https://raw.githubusercontent.com/ctran38/IT315/main/High_resolution_wallpaper_background_ID_77701911091.jpeg", "storeAddress":"Find More? Tìm Thêm Cửa Hàng?"},
+  {"storeName":"More Options","storeDescription":"Need more options? Click Open Search below to find vietnamese stores near your location. Makre sure to have location access turn on in your browser.","storeID":6,"storeImage":"https://raw.githubusercontent.com/ctran38/IT315/main/High_resolution_wallpaper_background_ID_77701911091.jpeg", "storeAddress":"Find More? Tìm Thêm Cửa Hàng?"}
   ],
   "Status":"OK"
 }
